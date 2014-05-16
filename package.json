@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "description": "A blank template for a quick start of testing javascript ideas",
+  "version": "0.0.1",
+  "author": {
+    "name": "zhonghai"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
